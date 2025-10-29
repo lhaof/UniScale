@@ -1,5 +1,5 @@
 # Universal Scale Transformer for Histology Image Segmentation
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://github.com/lhaof/UniScale)[![dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://github.com/lhaof/UniScale) [![model](https://img.shields.io/badge/🤗-Model-yellow)](https://github.com/lhaof/UniScale) <br>
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://github.com/lhaof/UniScale)[![dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://github.com/lhaof/UniScale) [![model](https://img.shields.io/badge/🤗-Model-yellow)](https://drive.google.com/file/d/1N4-y7lmxnY_4E4OKoE6Q1U6FtEK1jwUG/view?usp=drive_link) <br>
 
 
 ![](assets/Methods.jpg)
@@ -28,7 +28,7 @@ bash train.sh
 ```
 
 ## ✍️ Inference
-**step 0.** Download the UniScaleFormer model from [huggingface].
+**step 0.** Download the UniScaleFormer model from [google drive](https://drive.google.com/file/d/1N4-y7lmxnY_4E4OKoE6Q1U6FtEK1jwUG/view?usp=drive_link).
 
 **step 1.** Modify the config_path and checkpoint_path then run
 ```
