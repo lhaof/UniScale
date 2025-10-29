@@ -1,4 +1,8 @@
 # Universal Scale Transformer for Histology Image Segmentation
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://github.com/lhaof/UniScale)[![dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://github.com/lhaof/UniScale) [![model](https://img.shields.io/badge/🤗-Model-yellow)](https://github.com/lhaof/UniScale) <br>
+
+
+![](assets/Methods.jpg)
 
 ## 📖 Introduction
 
@@ -24,7 +28,7 @@ bash train.sh
 ```
 
 ## ✍️ Inference
-**step 0.** Download the UniScaleFormer model from [google drive].
+**step 0.** Download the UniScaleFormer model from [huggingface].
 
 **step 1.** Modify the config_path and checkpoint_path then run
 ```
