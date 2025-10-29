@@ -1,0 +1,6 @@
+from .multiscale_mask2former_head import MultiScaleMask2FormerHead
+from .auxscalseloss_mask2former_head import AuxScaleMask2FormerHead
+from .auxscaleloss_clip_mask2former_head import AuxScaleClipMask2FormerHead
+from .scaleaware_mask2former_head import ScaleAwareMask2FormerHead
+
+__all__ = ['MultiScaleMask2FormerHead', "AuxScaleMask2FormerHead", "AuxScaleClipMask2FormerHead", "ScaleAwareMask2FormerHead"]
